@@ -1,5 +1,7 @@
 # HFS Automated Quantification Pipeline
 
+[![DOI](https://zenodo.org/badge/1171376249.svg)](https://doi.org/10.5281/zenodo.18845312)
+
 Automated tonic-clonic decomposition of hemifacial spasm (HFS) severity using smartphone video and MediaPipe Face Mesh.
 
 ## Overview
